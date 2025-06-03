@@ -13,7 +13,7 @@
 ## 🏗️ Project Stages
 ### 1. Preparing the Device
 Install Ubuntu on Android using UserLand. Minimal terminal environment is preferred.
-![Setup Step 1] !images/image (1).png
+![Setup Step 1] (images/image (1).png)
 ![Setup Step 2](images/image (2).png)
 ![Setup Step 3](images/image (3).png)
 ![Setup Step 4](images/image (4).png)
