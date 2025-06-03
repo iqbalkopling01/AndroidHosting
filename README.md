@@ -1,4 +1,4 @@
-![20](https://github.com/user-attachments/assets/49788df9-c297-44bf-8947-28a50071ec90)## HOW TO: Create your OWN Hosting by your ANDROID PHONE!
+## HOW TO: Create your OWN Hosting by your ANDROID PHONE!
 You think hosting service is expensive?? Actually, yes it is lol. But i'll provide you some cheap
 
 ## 🔍 System Overview
